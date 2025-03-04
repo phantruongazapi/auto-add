@@ -5,8 +5,8 @@
 // @description  Tự động thêm bạn bè
 // @author       script by phantruong
 // @require      
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/phantruongazapi/auto-add/raw/refs/heads/main/UserScript.user.js
+// @downloadURL  https://github.com/phantruongazapi/auto-add/raw/refs/heads/main/UserScript.user.js
 // @match        *://www.facebook.com/*
 // @match        *://m.facebook.com/*
 // @match        *://www.instagram.com/*
