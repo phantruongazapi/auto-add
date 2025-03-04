@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Add Friends (FB & IG)
 // @namespace    http://tampermonkey.net/
-// @version      4.9
+// @version      5.0
 // @description  Tự động thêm bạn bè
 // @author       script by phantruong
 // @require      https://raw.githubusercontent.com/phantruongazapi/auto-add/refs/heads/main/auto-add-friend.js
